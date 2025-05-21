@@ -1,4 +1,4 @@
-# Awesome Clinical Medicine Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Clinical Medicine Mind Maps](https://mindmapai.app/mind-maps/clinical-medicine) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Improve clinical workflows and patient care with project management and mind maps AI to organize diagnoses, treatment plans, and medical data efficiently. Mind maps AI supports evidence-based clinical decision-making, helping healthcare professionals visualize cases and enhance personalized care delivery.
 
